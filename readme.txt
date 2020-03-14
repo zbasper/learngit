@@ -6,3 +6,4 @@ Creating a new branch quick and simple.
 Git can config merge.
 test one.
 Creating a new branch is quick and quick.
+This is a dev change.
