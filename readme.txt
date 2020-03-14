@@ -5,4 +5,4 @@ Git tracks changes.
 Creating a new branch quick and simple.
 Git can config merge.
 test one.
-Creating a new branch is quick.
+Creating a new branch & quick.
